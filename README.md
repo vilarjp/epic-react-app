@@ -65,7 +65,7 @@ After you've made sure to have the correct things (and versions) installed, you
 should be able to just run a few commands to get set up:
 
 ```
-git clone https://github.com/kentcdodds/bookshelf.git
+git clone https://github.com/vilarjp/epic-react-app
 cd bookshelf
 node setup
 ```
